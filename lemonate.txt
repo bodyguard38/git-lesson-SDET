@@ -3,3 +3,4 @@ Lemonate:
 1 su ekleyin
 2 limon 
 3 nane
+4 Seker
